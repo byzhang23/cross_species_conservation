@@ -11,5 +11,5 @@ This is a repository for calculating cross-species conservation score. Here's a 
 - 4-1compute_pvalue.R: calculate p-value
 - 4-2compute_fdr_joint.R: combine all 9 categories and calculate FDR
 - 5result_bygene.R: split the results by gene
-- cnsv_score.R: core functions for calculating conservation scores}
+- cnsv_score.R: core functions for calculating conservation scores
 
